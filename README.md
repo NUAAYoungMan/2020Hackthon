@@ -80,5 +80,4 @@
 - YOLOv4 PyTorch基于：https://github.com/bubbliiiing/yolov4-pytorch
 - mAP计算：https://github.com/Cartucho/mAP
 
-## License
-[GPL](https://github.com/Bil369/MaskDetect-YOLOv4-PyTorch/blob/master/LICENSE) &copy; [Bil369](https://github.com/Bil369)
+
